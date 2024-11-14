@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Patron_Facade.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F304C2D6-FB45-45E4-B785-C9B0FAEF9A6C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Patron_Facade.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Patron_FacadeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D5300455-BC26-49F2-B626-A191B95A9544}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Patron_Facade">
+      <UniqueIdentifier>{0DC2D0EC-2443-4E75-BDE5-AFA199F9225D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Patron_Facade\EnemigoLeon.cpp">
+      <Filter>Source\Patron_Facade</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Facade\EnemigoLeon.h">
+      <Filter>Source\Patron_Facade</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Facade\Enemigos.cpp">
+      <Filter>Source\Patron_Facade</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Facade\Enemigos.h">
+      <Filter>Source\Patron_Facade</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Facade\EnemigosCocodrilo.cpp">
+      <Filter>Source\Patron_Facade</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Facade\EnemigosCocodrilo.h">
+      <Filter>Source\Patron_Facade</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Facade\EnemigosFacade.cpp">
+      <Filter>Source\Patron_Facade</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Facade\EnemigosFacade.h">
+      <Filter>Source\Patron_Facade</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Facade\EnemigosLeon.cpp">
+      <Filter>Source\Patron_Facade</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Facade\EnemigosLeon.h">
+      <Filter>Source\Patron_Facade</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Facade\EnemigosMDragon.cpp">
+      <Filter>Source\Patron_Facade</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Facade\EnemigosMDragon.h">
+      <Filter>Source\Patron_Facade</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Patron_Facade\Patron_Facade.Build.cs">
+      <Filter>Source\Patron_Facade</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Patron_Facade\Patron_Facade.cpp">
+      <Filter>Source\Patron_Facade</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Facade\Patron_Facade.h">
+      <Filter>Source\Patron_Facade</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Facade\Patron_FacadeCharacter.cpp">
+      <Filter>Source\Patron_Facade</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Facade\Patron_FacadeCharacter.h">
+      <Filter>Source\Patron_Facade</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_Facade\Patron_FacadeGameMode.cpp">
+      <Filter>Source\Patron_Facade</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_Facade\Patron_FacadeGameMode.h">
+      <Filter>Source\Patron_Facade</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
